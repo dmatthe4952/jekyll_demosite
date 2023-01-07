@@ -1,0 +1,9 @@
+---
+title: A New Day
+date: 2023-01-03 09:05
+image: /img/clients/clients-logo3.png
+lead: The first post on the first day of blogging.
+subtitle: Starting a blog when posting is anathema.
+---
+
+This is the first post for a new day. I really hate blogging, so I won't do much.
